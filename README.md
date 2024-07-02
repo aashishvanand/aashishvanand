@@ -1,5 +1,38 @@
 ## Hi there 👋
 
+Creating a GitHub portfolio page is a fantastic way to showcase your skills, projects, and contributions to the open-source community. Given your extensive background and accomplishments, here's a suggested structure and content for your GitHub README profile:
+
+### GitHub Portfolio: Aashish Vivekanand
+
+#### 🌐 Connect with Me
+- LinkedIn: [Aashish Vivekanand](https://www.linkedin.com/in/aashishvanand)
+- Email: [aashishvanand@gmail.com](mailto:aashishvanand@gmail.com)
+
+#### 🎯 Quick Overview
+I am a Senior Software Engineer specializing in network and cloud security, currently making significant impacts at Proxtera. I lead the development of secure, robust microservices and serverless APIs, focusing heavily on Identity and Access Management (IAM) and data encryption. Recognized for my bug bounty achievements, I am ranked #2 in Singapore and #865 globally on the Google Bug Hunters Leaderboard.
+
+#### 🛠️ Technologies
+- **Languages**: Python, JavaScript
+- **Cloud**: AWS, GCP
+- **Security**: IAM, Data Encryption, Digital Signatures, Bug Bounties
+
+#### 🌟 Highlights
+- Google Bug Hunters Hall of Fame: #2 in Singapore, #865 Globally.
+- First place in multiple cybersecurity hackathons.
+- Co-author of "Inventory Transparency for Agricultural Produce through IoT."
+
+#### 📚 Education
+- **MSc in Cyber Security**, University of London (Expected Graduation: 2025)
+- **B.E. in Computer Science Engineering**, Rajalakshmi Engineering College (2013 - 2017)
+
+#### 📈 GitHub Stats
+![Aashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=aashishvanand&show_icons=true&theme=radical)
+
+#### 📌 Pinned Repositories
+- [airport-data-js](https://github.com/aashishvanand/airport-data-js)
+- [corporate-taxid-checker-js](https://github.com/aashishvanand/corporate-taxid-checker-js)
+
+
 <!--
 **aashishvanand/aashishvanand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
