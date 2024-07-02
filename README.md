@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there <img src="https://raw.githubusercontent.com/aashishvanand/aashishvanand/main/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" />
 
 #### 🌐 Connect with Me
 - LinkedIn: [Aashish Vivekanand](https://www.linkedin.com/in/aashishvanand)
