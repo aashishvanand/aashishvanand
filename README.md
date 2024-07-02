@@ -64,12 +64,13 @@
 ```
 
 ## Languages
-<div align="center">
+<div>
 <img src="https://raw.githubusercontent.com/aashishvanand/aashishvanand/main/images/python.gif" width="100">
 <img src="https://raw.githubusercontent.com/aashishvanand/aashishvanand/main/images/js.gif" width="100">
 </div>
+
 ## DB
-<div align="center">
+<div>
 <img src="https://raw.githubusercontent.com/aashishvanand/aashishvanand/main/images/mongodb.gif" width="100">
 </div>
 
