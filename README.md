@@ -1,9 +1,5 @@
 ## Hi there 👋
 
-Creating a GitHub portfolio page is a fantastic way to showcase your skills, projects, and contributions to the open-source community. Given your extensive background and accomplishments, here's a suggested structure and content for your GitHub README profile:
-
-### GitHub Portfolio: Aashish Vivekanand
-
 #### 🌐 Connect with Me
 - LinkedIn: [Aashish Vivekanand](https://www.linkedin.com/in/aashishvanand)
 - Email: [aashishvanand@gmail.com](mailto:aashishvanand@gmail.com)
