@@ -17,7 +17,7 @@ Hello there! 👋 I'm a Senior Software Engineer specializing in network and clo
 - **Publication**: Co-author of "Inventory Transparency for Agricultural Produce through IoT."
 
 #### 📈 GitHub Stats
-![Aashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=aashishvanand&show_icons=true&theme=transparent&rank_icon=percentile)
+![Aashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=aashishvanand&show_icons=true&theme=transparent&rank_icon=percentile&icon_color=79ff97&text_color=9f9f9f&title_color=fff)
 
 ![Aashish's GitHub Trophy](https://github-profile-trophy.vercel.app/?username=aashishvanand)
 
