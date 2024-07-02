@@ -57,31 +57,6 @@
       "role": "Software Developer (Android) and Vulnerability Assessment and Penetration Tester",
       "duration": "Dec 2017 - Apr 2019"
     }
-  ],
-  "certifications": [
-    {
-      "title": "Certified in Cybersecurity",
-      "issuer": "ISC2",
-      "date": "Oct 2023",
-      "link": "bit.ly/isc2ccaashish"
-    },
-    {
-      "title": "Cybersecurity Solutions and Microsoft Defender",
-      "issuer": "Microsoft",
-      "date": "Sep 2023",
-      "link": "bit.ly/microsoftdefenderaashish"
-    },
-    {
-      "title": "Networking and Cloud Computing",
-      "issuer": "Microsoft",
-      "date": "Aug 2023",
-      "link": "bit.ly/networkingcloudcomputingaashish"
-    },
-    {
-      "title": "Google Cloud Platform Fundamentals for AWS Professionals",
-      "date": "Aug 2017",
-      "link": "bit.ly/gcpforawsaashish"
-    }
   ]
 }
 
