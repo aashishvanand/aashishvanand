@@ -66,10 +66,10 @@
 <details>
 <summary> 📈 Click for GitHub Stats</summary>
 <p align="center">
-    <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=aashishvanand&show_icons=true&theme=transparent&rank_icon=percentile&icon_color=fff&text_color=9f9f9f&title_color=fff">
+    <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=aashishvanand&show_icons=true&theme=transparent&rank_icon=percentile&icon_color=fff&text_color=9f9f9f&title_color=fff&hide_border=true">
     <br>
     <br>
-    <img alt = "GitHub Trophy" src="https://github-profile-trophy.vercel.app/?username=aashishvanand"
+    <img alt = "GitHub Trophy" src="https://github-profile-trophy.vercel.app/?username=aashishvanand&no-frame=true&no-bg=true&margin-w=4"
 </p>
 </details>
 
