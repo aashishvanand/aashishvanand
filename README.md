@@ -6,6 +6,7 @@
   "name": "Aashish Vivekanand",
   "location": "Singapore",
   "contact": {
+    "website": "https://aashishvanand.me",
     "linkedIn": "https://linkedin.com/in/aashishvanand"
   },
   "current_role": "Senior Software Engineer @ Proxtera",
