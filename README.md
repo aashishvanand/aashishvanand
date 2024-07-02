@@ -1,4 +1,4 @@
-## Hi there <img src="https://raw.githubusercontent.com/aashishvanand/aashishvanand/main/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" />
+![image](https://github.com/aashishvanand/aashishvanand/assets/12725526/71fd2717-ccb1-48f3-9b49-50dbd345ac30)## Hi there <img src="https://raw.githubusercontent.com/aashishvanand/aashishvanand/main/images/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" />
 
 
 ```json
@@ -63,7 +63,15 @@
 
 ```
 
-## I have played with
+## Languages
+<div align="center">
+<img src="https://raw.githubusercontent.com/aashishvanand/aashishvanand/main/images/python.gif" width="100">
+<img src="https://raw.githubusercontent.com/aashishvanand/aashishvanand/main/images/js.gif" width="100">
+</div>
+## DB
+<div align="center">
+<img src="https://raw.githubusercontent.com/aashishvanand/aashishvanand/main/images/mongodb.gif" width="100">
+</div>
 
 
 <details>
