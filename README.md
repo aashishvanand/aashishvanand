@@ -63,10 +63,15 @@
 
 ```
 
-#### 📈 GitHub Stats
-![Aashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=aashishvanand&show_icons=true&theme=transparent&rank_icon=percentile&icon_color=fff&text_color=9f9f9f&title_color=fff)
-
-![Aashish's GitHub Trophy](https://github-profile-trophy.vercel.app/?username=aashishvanand)
+<details>
+#### 📈 <summary>Click for GitHub Stats</summary>
+<p align="center">
+    <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=aashishvanand&show_icons=true&theme=transparent&rank_icon=percentile&icon_color=fff&text_color=9f9f9f&title_color=fff">
+    <br>
+    <br>
+    <img alt = "GitHub Trophy" src="https://github-profile-trophy.vercel.app/?username=aashishvanand"
+</p>
+</details>
 
 <!--
 **aashishvanand/aashishvanand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
