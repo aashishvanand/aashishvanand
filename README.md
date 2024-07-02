@@ -1,9 +1,5 @@
 ## Hi there <img src="https://raw.githubusercontent.com/aashishvanand/aashishvanand/main/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" />
 
-#### 🌐 Connect with Me
-- LinkedIn: [Aashish Vivekanand](https://www.linkedin.com/in/aashishvanand)
-- Email: [aashishvanand@gmail.com](mailto:aashishvanand@gmail.com)
-
 #### 🎯 Quick Overview
 I am a Senior Software Engineer specializing in network and cloud security, currently making significant impacts at Proxtera. I lead the development of secure, robust microservices and serverless APIs, focusing heavily on Identity and Access Management (IAM) and data encryption. Recognized for my bug bounty achievements, I am ranked #2 in Singapore and #865 globally on the Google Bug Hunters Leaderboard.
 
