@@ -1,4 +1,4 @@
-![image](https://github.com/aashishvanand/aashishvanand/assets/12725526/71fd2717-ccb1-48f3-9b49-50dbd345ac30)## Hi there <img src="https://raw.githubusercontent.com/aashishvanand/aashishvanand/main/images/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" />
+## Hi there <img src="https://raw.githubusercontent.com/aashishvanand/aashishvanand/main/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" />
 
 
 ```json
