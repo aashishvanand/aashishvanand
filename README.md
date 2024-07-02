@@ -7,6 +7,7 @@
   "location": "Singapore",
   "contact": {
     "website": "https://aashishvanand.me",
+    "blog": "https://medium.com/@aashishvanand",
     "linkedIn": "https://linkedin.com/in/aashishvanand"
   },
   "current_role": "Senior Software Engineer @ Proxtera",
