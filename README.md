@@ -64,7 +64,7 @@
 ```
 
 ## 🛠️ Toolbox of a Techie:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![Shell Script](https://img.shields.io/badge/shell_script-121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)(#) ![JavaScript](https://img.shields.io/badge/javascript-323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![Shell Script](https://img.shields.io/badge/shell_script-121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
 
 ![AWS](https://img.shields.io/badge/AWS-FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-4285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-039BE5.svg?style=for-the-badge&logo=firebase) 
 
