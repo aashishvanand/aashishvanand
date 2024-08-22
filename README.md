@@ -10,7 +10,7 @@
     "blog": "https://medium.com/@aashishvanand",
     "linkedin": "https://linkedin.com/in/aashishvanand"
   },
-  "current_role": "Senior Software Engineer @ Proxtera",
+  "current_role": "Cyber Security Engineer @ Cloudflare",
   "specializations": [
     "Network and Cloud Security",
     "Google Bug Hunters Hall of Fame: #2 in Singapore, #865 Globally"
