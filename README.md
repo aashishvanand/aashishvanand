@@ -39,9 +39,14 @@
   },
   "work_experience": [
     {
+      "company": "Cloudflare",
+      "role": "Cyber Security Engineer",
+      "duration": "Aug 2024 - Current"
+    },
+    {
       "company": "Proxtera",
       "role": "Senior Software Engineer",
-      "duration": "May 2022 - Current"
+      "duration": "May 2022 - Aug 2024"
     },
     {
       "company": "Trusted Services",
